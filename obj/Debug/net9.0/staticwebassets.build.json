@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "dBTKCt33NBRpAtrN6Uv6nqko274CZkm4Nf4cz9b4vKE=",
+  "Source": "APIproject",
+  "BasePath": "_content/APIproject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIproject\\wwwroot",
+      "Source": "APIproject",
+      "ContentRoot": "C:\\Users\\samar\\source\\repos\\APIproject\\wwwroot\\",
+      "BasePath": "_content/APIproject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
